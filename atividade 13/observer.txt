@@ -1,0 +1,5 @@
+A) Sim, o padrão faz com que os classes criadas se tornem "receptoras" de forma constante da classe pai.
+
+B)Deixando as informações abertas na classe pai, e metodos de atualização que verificariam todas as informações 
+e comparariam com as que já tem para saber se deve ou não atualizar, o que resultaria em mais processamento de 
+forma desnecessária.
