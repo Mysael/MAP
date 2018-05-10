@@ -1,0 +1,5 @@
+A promeira diferença é que o GO trabalha melhor com as interfaces, dá mais liberdade de manuseio, 
+coisa que no java eu tive maiores problemas para fazer, além de gerar um código bem maior desnecessáriamente 
+e também trabalha melhor com a composição, pois eu nn preciso criar um pai para criar um filho como no java, apenas
+pelo fato de filho possuir pai, o pai já é subentendido como existente lá na classe filho, mesmo ainda não tendo 
+atribuido valores a ele.
